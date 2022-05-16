@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/willwalker/Documents/CISC450/Programming Assignment II/client/client.cpp
+cstdio
+-
+cstdlib
+-
+cstring
+-
+arpa/inet.h
+-
+

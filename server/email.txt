@@ -1,0 +1,14 @@
+Good Morning Doke,
+
+My name is Will - I’m a student with FREAS IT here at UD.  We are working on implementing dashboards for some of our departments in FREAS, and currently are faced with providing a solution that includes loading a webview of gjallarhorn.nss.udel.edu.  We are currently leveraging access thru the ‘ro’ account, but would like to create a custom view that implements a rotation and scaling method (to fit the dashboard display).
+
+Is there any way we could have access to create this view / and or layer css overtop the page to provide rotating and scaling functionality?
+
+Thanks!
+
+Will
+
+William Walker
+UD IT/FREAS
+University of Delaware
+(302) 535-4637
