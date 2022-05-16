@@ -1,10 +1,10 @@
-#Programming Assignment II
+# Programming Assignment II
 
 Individual programming assignment for CISC450/CPEG419. Assignment covers 'File Transfer Over UDP'. Project written by William Walker.  A table of contents is provided below for your convenience.
 
 [TOC]
 
-##List of Relevant Files
+## List of Relevant Files
 
 - `./client/client.cpp` - the source file for running the client process
 - `./server/server.cpp` - the source file for running the server process
@@ -12,7 +12,7 @@ Individual programming assignment for CISC450/CPEG419. Assignment covers 'File T
 - `./server/message.txt` - a text file available for download by the client
 - `./server/email.txt` - a text file available for download by the client
 
-##Compilation Instructions
+## Compilation Instructions
 
 While under development, I complied this project on macOS 10.14 using the clang++ compiler. The version output of my clang compiler is below: 
 
@@ -37,7 +37,7 @@ No configuration files are required to execute this enviroment.
 
 However, it should be noted that the `computer.jpg` and `message.txt` files in the ./server/ directory are special to this project. As this assignment focuses on file transfer over UDP, the only two files I have specified for demonstration purposes are both smaller than the size specification of the message buffer.
 
-##Running Instructions
+## Running Instructions
 
 The following instructions have been tested on macOS 10.14.4. After each instruction, I have provided an example of the command I ran on my machine. It is important to note that the program will only work for the files provided in the `./server/` directory. When a user wishes to exit the program, they should enter the corresponding hotkey/shortcut combination to exit command-line applications (i.e. for macOS, `Ctrl+C`)
 
